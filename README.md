@@ -12,9 +12,10 @@ Notifications and updates for users.
 ```
 
 ## Acknowledgments:
-
+```
 Django documentation
 Open-source contributors
+```
 
 ### Purpose:
 To educate users, reduce misconceptions, and promote organ donation awareness through a digital platform.
